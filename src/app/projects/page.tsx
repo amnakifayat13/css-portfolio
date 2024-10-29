@@ -7,7 +7,7 @@ function Projects (){
         <main className="main h-screen">
             <Navbar/>
           
-        <div className="projects h-screen">
+        <div className="projects ">
         <div> <Image src="/img2.png"
         width={300}
         height={300}
@@ -45,7 +45,7 @@ function Projects (){
         width={300}
         height={300}
         alt=""/>
-       <div className='mt-6 m-6'>
+       <div className='mt-6 mb-6'>
        <a
             href={"https://funforkids.vercel.app/"}
             target="_blank"
