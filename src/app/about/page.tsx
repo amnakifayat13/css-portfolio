@@ -6,19 +6,19 @@ function About(){
         <div>
             <main className="main ">
                 <Navbar/>
-                <div className="about-section">
-                    <div className="image-section-a">
-                        <Image src="/img1.jpeg" alt="" width={200} height={200}/> 
+                <div className="about-section ">
+                    <div className="image-section-a ">
+                        <Image className="mx-10 lg:mx-1" src="/img1.jpeg" alt="" width={200} height={200}/> 
                         <div>
-                        <p className="edu">Education</p>
-                        <p className="edu-para">- MBA (Finance) from DadaBhoy Institute of Higher Education</p>
-                        <p className="edu-para">- Enrolled in GIAIC Initiative AI Metaverse Web-03 Program</p>
+                        <p className="edu mx-10 lg:-mx-10">Education</p>
+                        <p className="edu-para mx-10 lg:-mx-10">- MBA (Finance) from DadaBhoy Institute of Higher Education</p>
+                        <p className="edu-para mx-10 lg:-mx-10">- Enrolled in GIAIC Initiative AI Metaverse Web-03 Program</p>
                         </div>
                     </div>
-                    <div>
+                    <div className="flex flex-col -mx-48 lg:mx-24">
 
                         <p className="get">Get to know me!</p>
-                        <p className="about-para"> I &apos;m a passionate web developer dedicated to crafting<br/>
+                        <p className="about-para "> I &apos;m a passionate web developer dedicated to crafting<br/>
                              high-quality, engaging digital experiences. With a <br/>
                              strong foundation in front-end and back-end technologies,<br/>
                               I enjoy building responsive and interactive websites that<br/>
