@@ -17,7 +17,7 @@ function Projects (){
             href={"https://mudassir-offer-list.vercel.app/"}
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-customGreen text-white font-bold py-2 px-4 mx-16 rounded hover:bg-gray-400 hover:text-black hover:font-bold "
+            className="bg-customGreen text-white font-bold py-2 px-4 mx-1 md:mx-16 rounded hover:bg-gray-400 hover:text-black hover:font-bold "
     
           >
             Live Demo
@@ -33,7 +33,7 @@ function Projects (){
             href={"https://portfolio-by-next-js-u86u.vercel.app/"}
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-customGreen text-white font-bold py-2 px-4 mx-16 rounded hover:bg-gray-400 hover:text-black hover:font-bold "
+            className="bg-customGreen text-white font-bold py-2 px-4 mx-1 md:mx-16 rounded hover:bg-gray-400 hover:text-black hover:font-bold "
     
           >
             Live Demo
@@ -50,7 +50,7 @@ function Projects (){
             href={"https://funforkids.vercel.app/"}
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-customGreen text-white font-bold py-2 px-4 mx-20 rounded hover:bg-gray-400 hover:text-black hover:font-bold "
+            className="bg-customGreen text-white font-bold py-2 px-4 mx-1 md:mx-20 rounded hover:bg-gray-400 hover:text-black hover:font-bold "
     
           >
             Live Demo
@@ -67,7 +67,7 @@ function Projects (){
             href={"https://planto-website.vercel.app/"}
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-customGreen text-white font-bold py-2 px-4 mx-20 rounded hover:bg-gray-400 hover:text-black hover:font-bold "
+            className="bg-customGreen text-white font-bold py-2 px-4 mx-1 md:mx-20 rounded hover:bg-gray-400 hover:text-black hover:font-bold "
     
           >
             Live Demo
@@ -84,7 +84,7 @@ function Projects (){
             href={"https://fashionwebsite-ybzk.vercel.app/"}
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-customGreen text-white font-bold py-2 px-4 mx-20 rounded hover:bg-gray-400 hover:text-black hover:font-bold "
+            className="bg-customGreen text-white font-bold py-2 px-4 mx-1 md:mx-20 rounded hover:bg-gray-400 hover:text-black hover:font-bold "
     
           >
             Live Demo

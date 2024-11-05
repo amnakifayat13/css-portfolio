@@ -565,6 +565,29 @@ h2{
    }
 
 }
+@media(max-width:320px){
+  h2{
+    margin-left: 80px;
+  }
+  .img1{
+    margin-left: -40px;
+  }
+  a{
+    margin-right: 500px;
+  }
+  .about-para{
+    width: 250px;
+    
+  }
+  .hire-btn {
+    width: 40%;
+    margin-left: 0px;
+    margin-bottom: 30px;
+    text-align:justify;
+    padding-left: -100px;
+  
+  }
+}
 
 
 

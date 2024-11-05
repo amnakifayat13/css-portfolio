@@ -18,7 +18,7 @@ function Intro(){
             href={"https://my-resume-83xg.vercel.app/"}
             target="_blank"
             rel="noopener noreferrer"
-            className=" text-white font-bold py-2 px-4 rounded "
+            className=" text-white lg:font-bold lg:py-2 lg:px-4 px-1 rounded "
     
           >Hire me</a></button>
                 </div>
